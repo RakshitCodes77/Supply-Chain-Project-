@@ -121,37 +121,6 @@ The model is precise enough to support targeted operational interventions (e.g.,
 
 ---
 
-## 📁 Repository Structure
-
-```
-├── data/                   # Raw and processed datasets
-├── notebooks/              # EDA, bottleneck detection, root cause analysis, modeling
-├── reports/                # Final report (PDF/DOCX) and supporting visuals
-├── src/                    # Reusable scripts (data prep, feature engineering, model training)
-├── requirements.txt        # Python dependencies
-└── README.md
-```
-
-*(Adjust folder names to match your actual repo layout.)*
-
----
-
-## 🚀 Getting Started
-
-```bash
-# Clone the repo
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the analysis notebooks in order
-jupyter notebook notebooks/
-```
-
----
-
 ## 👤 Author
 
 **Akash Kumar Rakshit**
