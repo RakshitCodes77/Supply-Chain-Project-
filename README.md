@@ -152,12 +152,6 @@ jupyter notebook notebooks/
 
 ---
 
-## 📄 Full Report
-
-The complete write-up — including all charts, the KPI dashboard, and detailed root cause breakdowns — is available in [`reports/`](./reports).
-
----
-
 ## 👤 Author
 
 **Akash Kumar Rakshit**
